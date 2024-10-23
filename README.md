@@ -4,9 +4,9 @@
 
 <ul>
   <p>  I live life in Fast lane 🚀</p>
-  <li>- 🏎️ Kart Racer on day off!</li>
-  <li>- 🍻 Life enjoyer</li>
-  <li>- 💻 Intregating Biz with Tech</li>
+  <li> 🏎️ Kart Racer on day off!</li>
+  <li> 🍻 Life enjoyer</li>
+  <li> 💻 Intregating Biz with Tech</li>
 </ul>
 
   
@@ -15,8 +15,6 @@
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff" alt="Gemini Badge" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Badge" />
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge" />
